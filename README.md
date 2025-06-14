@@ -8,13 +8,13 @@ El objetivo de este challenge fue analizar el rendimiento de cuatro tiendas de u
 
 El proyecto incluye:
 
-- Análisis de **ingresos totales por tienda**
-- Identificación de **categorías de productos más y menos vendidas**
-- Evaluación de **calificaciones promedio de clientes**
-- Detección de **productos más vendidos**
-- Comparación de **costos de envío**
-- Cálculo del **índice de eficiencia** (relación entre ingresos y costos logísticos)
-- Visualización de **ventas por ciudad y por tienda**
+1. Análisis de **ingresos totales por tienda**
+2. Identificación de **categorías de productos más y menos vendidas**
+3. Evaluación de **calificaciones promedio de clientes**
+4. Detección de **productos más vendidos**
+5. Comparación de **costos de envío**
+6. Cálculo del **índice de eficiencia** (relación entre ingresos y costos logísticos)
+7. Visualización de **ventas por ciudad y por tienda**
 
 ## 🛠️ Herramientas utilizadas
 
